@@ -1,0 +1,30 @@
+{
+  "name": "modify-code-analysis",
+  "private": true,
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "extract": "ts-node packages/parser-agent/src/index.ts",
+    "build": "pnpm -r --workspace-concurrency=1 build",
+    "publish:all": "sh ./scripts/publish.sh",
+    "publish:parser": "cd packages/parser-agent && pnpm publish",
+    "publish:graph": "cd packages/graph-builder-agent && pnpm publish",
+    "version": "pnpm -r version"
+  },
+  "devDependencies": {
+    "@ant-design/icons-vue": "^7.0.1",
+    "ts-morph": "^17.0.0",
+    "ts-node": "^10.0.0",
+    "tsx": "^4.16.2",
+    "typescript": "^5.0.0",
+    "vue": "^3.2.0"
+  },
+  "dependencies": {
+    "glob": "^8.0.3",
+    "zod": "^3.22.4"
+  }
+}

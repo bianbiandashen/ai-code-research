@@ -1,0 +1,628 @@
+2025-07-19T06:17:46.756Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "ea994a51b0d9884f4fc046eca11a5c99"
+    SET Code.path = "src/App.vue", 
+        Code.name = "App.vue", 
+        Code.extension = ".vue"
+  
+
+2025-07-19T06:17:46.776Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "43c869e2a3d81e4e060ba06cf00f10b4"
+    SET Code.path = "src/api/afterSale.ts", 
+        Code.name = "afterSale.ts", 
+        Code.extension = ".ts"
+  
+
+2025-07-19T06:17:46.796Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "9578c22ba8d9b0de8ac4b464102c15a9"
+    SET Code.path = "src/components/AfterSaleForm.vue", 
+        Code.name = "AfterSaleForm.vue", 
+        Code.extension = ".vue"
+  
+
+2025-07-19T06:17:46.813Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "f73f541efd81bbb11cf50904203d604e"
+    SET Code.path = "src/components/AfterSaleStatus.vue", 
+        Code.name = "AfterSaleStatus.vue", 
+        Code.extension = ".vue"
+  
+
+2025-07-19T06:17:46.834Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "0a84970a3d90af48cae601a815d52f72"
+    SET Code.path = "src/components/NotificationToast.tsx", 
+        Code.name = "NotificationToast.tsx", 
+        Code.extension = ".tsx"
+  
+
+2025-07-19T06:17:46.852Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "e0401d592e237f2617978882ed9dccb5"
+    SET Code.path = "src/components/RefundRequestForm.vue", 
+        Code.name = "RefundRequestForm.vue", 
+        Code.extension = ".vue"
+  
+
+2025-07-19T06:17:46.872Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "081513465da7f9d9a6f03722e4c1da2a"
+    SET Code.path = "src/components/ReturnPolicyModal.vue", 
+        Code.name = "ReturnPolicyModal.vue", 
+        Code.extension = ".vue"
+  
+
+2025-07-19T06:17:46.891Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "4691d6778811d975ef99235a267687a2"
+    SET Code.path = "src/components/ToastContent.vue", 
+        Code.name = "ToastContent.vue", 
+        Code.extension = ".vue"
+  
+
+2025-07-19T06:17:46.910Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "d468dcc44050a0d67bc2853a3cd51316"
+    SET Code.path = "src/hooks/useAfterSaleMetrics.ts", 
+        Code.name = "useAfterSaleMetrics.ts", 
+        Code.extension = ".ts"
+  
+
+2025-07-19T06:17:46.930Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "c4e98233d89e8b8310b19a9d6194378d"
+    SET Code.path = "src/pages/AfterSaleDashboard.vue", 
+        Code.name = "AfterSaleDashboard.vue", 
+        Code.extension = ".vue"
+  
+
+2025-07-19T06:17:46.949Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "fabb9e56a8395e72eace6df0044c31e3"
+    SET Code.path = "src/utils/dateFormatter.ts", 
+        Code.name = "dateFormatter.ts", 
+        Code.extension = ".ts"
+  
+
+2025-07-19T06:17:46.967Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "356016512317e6cd53b2a038b9a74200"
+    SET Code.path = "src/utils/validation.ts", 
+        Code.name = "validation.ts", 
+        Code.extension = ".ts"
+  
+
+2025-07-19T06:17:46.987Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "a8a05b3cded97a1fa8b89c1ee4be49d8"
+    SET Code.path = "src/components/AftersaleDax.tsx", 
+        Code.name = "AftersaleDax.tsx", 
+        Code.extension = ".tsx"
+  
+
+2025-07-19T06:17:47.006Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "f7bee21580a35dc4e55db69baad53a9c"
+    SET Code.path = "src/components/AftersaleDa.tsx", 
+        Code.name = "AftersaleDa.tsx", 
+        Code.extension = ".tsx"
+  
+
+2025-07-19T06:17:47.026Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "Component:App"
+    SET CodeEntity.entity_type = "component", 
+        CodeEntity.file_path = "ea994a51b0d9884f4fc046eca11a5c99", 
+        CodeEntity.location = "7", 
+        CodeEntity.raw_name = "default", 
+        CodeEntity.description = "Vue应用程序的入口组件，提供基础布局和样式，通过router-view渲染路由匹配的组件，实现页面导航和内容展示功能。", 
+        CodeEntity.tag_list = "应用入口,路由容器,Vue组件,布局框架,页面导航",
+        CodeEntity.emits_list = ""
+  
+
+2025-07-19T06:18:21.378Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "ea994a51b0d9884f4fc046eca11a5c99"
+    SET CodeFile.path = "src/App.vue", 
+        CodeFile.name = "App.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:19:08.713Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "ea994a51b0d9884f4fc046eca11a5c99"
+    SET CodeFile.path = "src/App.vue", 
+        CodeFile.name = "App.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:19:08.732Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "43c869e2a3d81e4e060ba06cf00f10b4"
+    SET CodeFile.path = "src/api/afterSale.ts", 
+        CodeFile.name = "afterSale.ts", 
+        CodeFile.extension = ".ts"
+  
+
+2025-07-19T06:19:08.749Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "9578c22ba8d9b0de8ac4b464102c15a9"
+    SET CodeFile.path = "src/components/AfterSaleForm.vue", 
+        CodeFile.name = "AfterSaleForm.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:19:08.769Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "f73f541efd81bbb11cf50904203d604e"
+    SET CodeFile.path = "src/components/AfterSaleStatus.vue", 
+        CodeFile.name = "AfterSaleStatus.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:19:08.790Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "0a84970a3d90af48cae601a815d52f72"
+    SET CodeFile.path = "src/components/NotificationToast.tsx", 
+        CodeFile.name = "NotificationToast.tsx", 
+        CodeFile.extension = ".tsx"
+  
+
+2025-07-19T06:19:08.810Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "e0401d592e237f2617978882ed9dccb5"
+    SET CodeFile.path = "src/components/RefundRequestForm.vue", 
+        CodeFile.name = "RefundRequestForm.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:19:08.828Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "081513465da7f9d9a6f03722e4c1da2a"
+    SET CodeFile.path = "src/components/ReturnPolicyModal.vue", 
+        CodeFile.name = "ReturnPolicyModal.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:19:08.847Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "4691d6778811d975ef99235a267687a2"
+    SET CodeFile.path = "src/components/ToastContent.vue", 
+        CodeFile.name = "ToastContent.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:19:08.864Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "d468dcc44050a0d67bc2853a3cd51316"
+    SET CodeFile.path = "src/hooks/useAfterSaleMetrics.ts", 
+        CodeFile.name = "useAfterSaleMetrics.ts", 
+        CodeFile.extension = ".ts"
+  
+
+2025-07-19T06:19:08.884Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "c4e98233d89e8b8310b19a9d6194378d"
+    SET CodeFile.path = "src/pages/AfterSaleDashboard.vue", 
+        CodeFile.name = "AfterSaleDashboard.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:19:08.902Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "fabb9e56a8395e72eace6df0044c31e3"
+    SET CodeFile.path = "src/utils/dateFormatter.ts", 
+        CodeFile.name = "dateFormatter.ts", 
+        CodeFile.extension = ".ts"
+  
+
+2025-07-19T06:19:08.926Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "356016512317e6cd53b2a038b9a74200"
+    SET CodeFile.path = "src/utils/validation.ts", 
+        CodeFile.name = "validation.ts", 
+        CodeFile.extension = ".ts"
+  
+
+2025-07-19T06:19:08.951Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "a8a05b3cded97a1fa8b89c1ee4be49d8"
+    SET CodeFile.path = "src/components/AftersaleDax.tsx", 
+        CodeFile.name = "AftersaleDax.tsx", 
+        CodeFile.extension = ".tsx"
+  
+
+2025-07-19T06:19:08.970Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "f7bee21580a35dc4e55db69baad53a9c"
+    SET CodeFile.path = "src/components/AftersaleDa.tsx", 
+        CodeFile.name = "AftersaleDa.tsx", 
+        CodeFile.extension = ".tsx"
+  
+
+2025-07-19T06:19:08.988Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "Component:App"
+    SET CodeEntity.entity_type = "component", 
+        CodeEntity.file_path = "ea994a51b0d9884f4fc046eca11a5c99", 
+        CodeEntity.location = "7", 
+        CodeEntity.raw_name = "default", 
+        CodeEntity.description = "Vue应用程序的入口组件，提供基础布局和样式，通过router-view渲染路由匹配的组件，实现页面导航和内容展示功能。", 
+        CodeEntity.tag_list = "应用入口,路由容器,Vue组件,布局框架,页面导航",
+        CodeEntity.emits_list = ""
+  
+
+2025-07-19T06:19:57.815Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "ea994a51b0d9884f4fc046eca11a5c99"
+    SET CodeFile.path = "src/App.vue", 
+        CodeFile.name = "App.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:19:57.832Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "43c869e2a3d81e4e060ba06cf00f10b4"
+    SET CodeFile.path = "src/api/afterSale.ts", 
+        CodeFile.name = "afterSale.ts", 
+        CodeFile.extension = ".ts"
+  
+
+2025-07-19T06:19:57.851Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "9578c22ba8d9b0de8ac4b464102c15a9"
+    SET CodeFile.path = "src/components/AfterSaleForm.vue", 
+        CodeFile.name = "AfterSaleForm.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:19:57.869Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "f73f541efd81bbb11cf50904203d604e"
+    SET CodeFile.path = "src/components/AfterSaleStatus.vue", 
+        CodeFile.name = "AfterSaleStatus.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:19:57.887Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "0a84970a3d90af48cae601a815d52f72"
+    SET CodeFile.path = "src/components/NotificationToast.tsx", 
+        CodeFile.name = "NotificationToast.tsx", 
+        CodeFile.extension = ".tsx"
+  
+
+2025-07-19T06:19:57.906Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "e0401d592e237f2617978882ed9dccb5"
+    SET CodeFile.path = "src/components/RefundRequestForm.vue", 
+        CodeFile.name = "RefundRequestForm.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:19:57.926Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "081513465da7f9d9a6f03722e4c1da2a"
+    SET CodeFile.path = "src/components/ReturnPolicyModal.vue", 
+        CodeFile.name = "ReturnPolicyModal.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:19:57.943Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "4691d6778811d975ef99235a267687a2"
+    SET CodeFile.path = "src/components/ToastContent.vue", 
+        CodeFile.name = "ToastContent.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:19:57.963Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "d468dcc44050a0d67bc2853a3cd51316"
+    SET CodeFile.path = "src/hooks/useAfterSaleMetrics.ts", 
+        CodeFile.name = "useAfterSaleMetrics.ts", 
+        CodeFile.extension = ".ts"
+  
+
+2025-07-19T06:19:57.986Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "c4e98233d89e8b8310b19a9d6194378d"
+    SET CodeFile.path = "src/pages/AfterSaleDashboard.vue", 
+        CodeFile.name = "AfterSaleDashboard.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:19:58.006Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "fabb9e56a8395e72eace6df0044c31e3"
+    SET CodeFile.path = "src/utils/dateFormatter.ts", 
+        CodeFile.name = "dateFormatter.ts", 
+        CodeFile.extension = ".ts"
+  
+
+2025-07-19T06:19:58.026Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "356016512317e6cd53b2a038b9a74200"
+    SET CodeFile.path = "src/utils/validation.ts", 
+        CodeFile.name = "validation.ts", 
+        CodeFile.extension = ".ts"
+  
+
+2025-07-19T06:19:58.045Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "a8a05b3cded97a1fa8b89c1ee4be49d8"
+    SET CodeFile.path = "src/components/AftersaleDax.tsx", 
+        CodeFile.name = "AftersaleDax.tsx", 
+        CodeFile.extension = ".tsx"
+  
+
+2025-07-19T06:19:58.064Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "f7bee21580a35dc4e55db69baad53a9c"
+    SET CodeFile.path = "src/components/AftersaleDa.tsx", 
+        CodeFile.name = "AftersaleDa.tsx", 
+        CodeFile.extension = ".tsx"
+  
+
+2025-07-19T06:19:58.085Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "Component:App"
+    SET CodeEntity.entity_type = "component", 
+        CodeEntity.file_path = "ea994a51b0d9884f4fc046eca11a5c99", 
+        CodeEntity.location = "7", 
+        CodeEntity.raw_name = "default", 
+        CodeEntity.description = "Vue应用程序的入口组件，提供基础布局和样式，通过router-view渲染路由匹配的组件，实现页面导航和内容展示功能。", 
+        CodeEntity.tag_list = "应用入口,路由容器,Vue组件,布局框架,页面导航",
+        CodeEntity.emits_list = ""
+  
+
+2025-07-19T06:20:44.880Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "ea994a51b0d9884f4fc046eca11a5c99"
+    SET CodeFile.path = "src/App.vue", 
+        CodeFile.name = "App.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:20:44.905Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "43c869e2a3d81e4e060ba06cf00f10b4"
+    SET CodeFile.path = "src/api/afterSale.ts", 
+        CodeFile.name = "afterSale.ts", 
+        CodeFile.extension = ".ts"
+  
+
+2025-07-19T06:20:44.925Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "9578c22ba8d9b0de8ac4b464102c15a9"
+    SET CodeFile.path = "src/components/AfterSaleForm.vue", 
+        CodeFile.name = "AfterSaleForm.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:20:44.944Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "f73f541efd81bbb11cf50904203d604e"
+    SET CodeFile.path = "src/components/AfterSaleStatus.vue", 
+        CodeFile.name = "AfterSaleStatus.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:20:44.961Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "0a84970a3d90af48cae601a815d52f72"
+    SET CodeFile.path = "src/components/NotificationToast.tsx", 
+        CodeFile.name = "NotificationToast.tsx", 
+        CodeFile.extension = ".tsx"
+  
+
+2025-07-19T06:20:44.982Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "e0401d592e237f2617978882ed9dccb5"
+    SET CodeFile.path = "src/components/RefundRequestForm.vue", 
+        CodeFile.name = "RefundRequestForm.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:20:45.001Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "081513465da7f9d9a6f03722e4c1da2a"
+    SET CodeFile.path = "src/components/ReturnPolicyModal.vue", 
+        CodeFile.name = "ReturnPolicyModal.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:20:45.020Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "4691d6778811d975ef99235a267687a2"
+    SET CodeFile.path = "src/components/ToastContent.vue", 
+        CodeFile.name = "ToastContent.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:20:45.040Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "d468dcc44050a0d67bc2853a3cd51316"
+    SET CodeFile.path = "src/hooks/useAfterSaleMetrics.ts", 
+        CodeFile.name = "useAfterSaleMetrics.ts", 
+        CodeFile.extension = ".ts"
+  
+
+2025-07-19T06:20:45.057Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "c4e98233d89e8b8310b19a9d6194378d"
+    SET CodeFile.path = "src/pages/AfterSaleDashboard.vue", 
+        CodeFile.name = "AfterSaleDashboard.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:20:45.074Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "fabb9e56a8395e72eace6df0044c31e3"
+    SET CodeFile.path = "src/utils/dateFormatter.ts", 
+        CodeFile.name = "dateFormatter.ts", 
+        CodeFile.extension = ".ts"
+  
+
+2025-07-19T06:20:45.094Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "356016512317e6cd53b2a038b9a74200"
+    SET CodeFile.path = "src/utils/validation.ts", 
+        CodeFile.name = "validation.ts", 
+        CodeFile.extension = ".ts"
+  
+
+2025-07-19T06:20:45.114Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "a8a05b3cded97a1fa8b89c1ee4be49d8"
+    SET CodeFile.path = "src/components/AftersaleDax.tsx", 
+        CodeFile.name = "AftersaleDax.tsx", 
+        CodeFile.extension = ".tsx"
+  
+
+2025-07-19T06:20:45.131Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "f7bee21580a35dc4e55db69baad53a9c"
+    SET CodeFile.path = "src/components/AftersaleDa.tsx", 
+        CodeFile.name = "AftersaleDa.tsx", 
+        CodeFile.extension = ".tsx"
+  
+
+2025-07-19T06:20:45.149Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "Component:App"
+    SET CodeEntity.entity_type = "component", 
+        CodeEntity.file_path = "ea994a51b0d9884f4fc046eca11a5c99", 
+        CodeEntity.location = "7", 
+        CodeEntity.raw_name = "default", 
+        CodeEntity.description = "Vue应用程序的入口组件，提供基础布局和样式，通过router-view渲染路由匹配的组件，实现页面导航和内容展示功能。", 
+        CodeEntity.tag_list = "应用入口,路由容器,Vue组件,布局框架,页面导航",
+        CodeEntity.emits_list = ""
+  
+
+2025-07-19T06:22:46.079Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "ea994a51b0d9884f4fc046eca11a5c99"
+    SET CodeFile.path = "src/App.vue", 
+        CodeFile.name = "App.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:22:46.100Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "43c869e2a3d81e4e060ba06cf00f10b4"
+    SET CodeFile.path = "src/api/afterSale.ts", 
+        CodeFile.name = "afterSale.ts", 
+        CodeFile.extension = ".ts"
+  
+
+2025-07-19T06:22:46.119Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "9578c22ba8d9b0de8ac4b464102c15a9"
+    SET CodeFile.path = "src/components/AfterSaleForm.vue", 
+        CodeFile.name = "AfterSaleForm.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:22:46.137Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "f73f541efd81bbb11cf50904203d604e"
+    SET CodeFile.path = "src/components/AfterSaleStatus.vue", 
+        CodeFile.name = "AfterSaleStatus.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:22:46.154Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "0a84970a3d90af48cae601a815d52f72"
+    SET CodeFile.path = "src/components/NotificationToast.tsx", 
+        CodeFile.name = "NotificationToast.tsx", 
+        CodeFile.extension = ".tsx"
+  
+
+2025-07-19T06:22:46.172Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "e0401d592e237f2617978882ed9dccb5"
+    SET CodeFile.path = "src/components/RefundRequestForm.vue", 
+        CodeFile.name = "RefundRequestForm.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:22:46.190Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "081513465da7f9d9a6f03722e4c1da2a"
+    SET CodeFile.path = "src/components/ReturnPolicyModal.vue", 
+        CodeFile.name = "ReturnPolicyModal.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:22:46.207Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "4691d6778811d975ef99235a267687a2"
+    SET CodeFile.path = "src/components/ToastContent.vue", 
+        CodeFile.name = "ToastContent.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:22:46.225Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "d468dcc44050a0d67bc2853a3cd51316"
+    SET CodeFile.path = "src/hooks/useAfterSaleMetrics.ts", 
+        CodeFile.name = "useAfterSaleMetrics.ts", 
+        CodeFile.extension = ".ts"
+  
+
+2025-07-19T06:22:46.251Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "c4e98233d89e8b8310b19a9d6194378d"
+    SET CodeFile.path = "src/pages/AfterSaleDashboard.vue", 
+        CodeFile.name = "AfterSaleDashboard.vue", 
+        CodeFile.extension = ".vue"
+  
+
+2025-07-19T06:22:46.272Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "fabb9e56a8395e72eace6df0044c31e3"
+    SET CodeFile.path = "src/utils/dateFormatter.ts", 
+        CodeFile.name = "dateFormatter.ts", 
+        CodeFile.extension = ".ts"
+  
+
+2025-07-19T06:22:46.291Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "356016512317e6cd53b2a038b9a74200"
+    SET CodeFile.path = "src/utils/validation.ts", 
+        CodeFile.name = "validation.ts", 
+        CodeFile.extension = ".ts"
+  
+
+2025-07-19T06:22:46.308Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "a8a05b3cded97a1fa8b89c1ee4be49d8"
+    SET CodeFile.path = "src/components/AftersaleDax.tsx", 
+        CodeFile.name = "AftersaleDax.tsx", 
+        CodeFile.extension = ".tsx"
+  
+
+2025-07-19T06:22:46.327Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "f7bee21580a35dc4e55db69baad53a9c"
+    SET CodeFile.path = "src/components/AftersaleDa.tsx", 
+        CodeFile.name = "AftersaleDa.tsx", 
+        CodeFile.extension = ".tsx"
+  
+
+2025-07-19T06:22:46.347Z - EXECUTING NATIVE NEBULA QUERY:
+
+    UPSERT VERTEX "Component:App"
+    SET CodeEntity.entity_type = "component", 
+        CodeEntity.file_path = "ea994a51b0d9884f4fc046eca11a5c99", 
+        CodeEntity.location = "7", 
+        CodeEntity.raw_name = "default", 
+        CodeEntity.description = "Vue应用程序的入口组件，提供基础布局和样式，通过router-view渲染路由匹配的组件，实现页面导航和内容展示功能。", 
+        CodeEntity.tag_list = "应用入口,路由容器,Vue组件,布局框架,页面导航",
+        CodeEntity.emits_list = ""
+  
+
